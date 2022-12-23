@@ -2,10 +2,10 @@ const width = 500;
 const height = 600;
 const quantity = 150;
 const types = ['text', 'select', 'progress', 'meter', 'button', 'radio', 'checkbox'];
-const greetings = ['AJunj', 'MAN', '哇塞明', 'Warriorsº', ' ALwj', '12月25', '斯蒂芬', 'Merry Christmas', 'MAN', '图图小霸王',
-    'AJunj', 'MAN', '哇塞明', 'Warriorsº', ' ALwj', '12月25', '斯蒂芬', 'Merry Christmas', 'MAN', '图图小霸王', 'AJunj', 'MAN',
+const greetings = ['AJunj', 'MAN', '哇塞明', 'Warriorsº', ' ALwj', '12月25', '谢发财', 'Merry Christmas','谢发财', 'MAN', '图图小霸王',
+    'AJunj', 'MAN', '哇塞明', 'Warriorsº', ' ALwj', '谢发财', '斯蒂芬', 'Merry Christmas','谢发财', 'MAN', '图图小霸王', 'AJunj', 'MAN',
     '哇塞明', 'Warriorsº', ' ALwj', 'AJunj', 'MAN', '哇塞明', 'Warriorsº', ' ALwj', '12月25', '斯蒂芬', 'Merry Christmas',
-    'MAN', '图图小霸王',
+    'MAN', '图图小霸王','谢发财',
 ];
 let tree = document.querySelector('.tree'),
     treeRotation = 0;
